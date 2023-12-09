@@ -12,7 +12,7 @@ const port = 3001;
 const db = mysql.createConnection({
   host: 'ec2-13-48-43-27.eu-north-1.compute.amazonaws.com',
   user: 'shreyansh',
-  password: 'S12ikhar$',
+  password: '',
   database: 'login',
 });
 
